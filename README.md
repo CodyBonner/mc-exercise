@@ -6,3 +6,4 @@ more information is being placed here
 
 I will be making a lot of money in 2024 -inserts smiley face-
 
+Hi, I am Alice adding some very important info.
