@@ -1,9 +1,8 @@
 # mc-exercise
 
-I am Carol adding information to README.md file pair programming with Bob.
+**What this lab is about.**
 
-more information is being placed here
+This lab is about working together and finding each others strengths and weaknesses when working as a group.
 
-I will be making a lot of money in 2024 -inserts smiley face-
 
-Hi, I am Alice adding some very important info.
+
