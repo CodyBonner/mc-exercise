@@ -1,6 +1,8 @@
 # mc-exercise
 
-Ello I am Bob and I am excited to be here. I look forward to working on this app together. 
+**What this lab is about.**
 
-Riddle of the day: What falls during the winter but never gets hurt?
+This lab is about working together and finding each others strengths and weaknesses when working as a group.
+
+
 

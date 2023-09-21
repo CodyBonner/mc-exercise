@@ -1,5 +1,13 @@
 # Fubar
 
-**What this lab is about.**
+Ello I am Bob and I am excited to be here. I look forward to working on this app together. 
 
-This lab is about working together and finding each others strengths and weaknesses when working as a group.
+Riddle of the day: What falls during the winter but never gets hurt?
+
+I am Carol adding information to README.md file
+
+more information is being placed here
+
+I will be making a lot of money in 2024 inserts smiley face
+
+Hi, I am Alice adding some very important info.
